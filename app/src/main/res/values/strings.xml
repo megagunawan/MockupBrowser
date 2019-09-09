@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mockup Browser</string>
+    <string name="action_settings">Settings</string>
+    <string name="nameLabel">Name</string>
+    <string name="urlLabel">URL</string>
+    <string name="colonLabel">:</string>
+    <string name="editLabel">EDIT</string>
+    <string name="open_url">OPEN URL</string>
+    <string name="tambahLabel">TAMBAH</string>
+</resources>
